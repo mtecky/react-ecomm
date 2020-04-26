@@ -12,3 +12,10 @@
     justify-content: space-between;
   }
 }
+
+@media screen and (max-width: 800px) {
+  .sign-in {
+    width: 90%;
+    position: absolute;
+  }
+}
